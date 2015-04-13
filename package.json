@@ -1,0 +1,24 @@
+{
+  "name": "box-sizing-polyfill",
+  "version": "0.1.0",
+  "description": "This box-sizing polyfill is based on previous work done by Erik Arvidsson, which he published in 2002 on WebFX.",
+  "main": "boxsizing.htc",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/contolini/box-sizing-polyfill.git"
+  },
+  "keywords": [
+    "box",
+    "box-model",
+    "css"
+  ],
+  "author": "Christian Schaefer",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/contolini/box-sizing-polyfill/issues"
+  },
+  "homepage": "https://github.com/contolini/box-sizing-polyfill"
+}
